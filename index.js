@@ -14,4 +14,5 @@ age = 40;
 console.log(age);
 
 const points = 100;
+points = 50;
 console.log(points);
