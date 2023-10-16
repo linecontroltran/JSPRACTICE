@@ -20,3 +20,6 @@ console.log(fullName2);
 
 // Getting Characters
 console.log(fullName[2]);
+
+// Finding the string length
+console.log(fullName.length);
