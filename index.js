@@ -9,3 +9,6 @@ let age = 35;
 let year = 2024;
 
 console.log(age, year);
+
+age = 40;
+console.log(age);
