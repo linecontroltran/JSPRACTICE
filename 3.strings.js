@@ -23,3 +23,11 @@ console.log(fullName[2]);
 
 // Finding the string length
 console.log(fullName.length);
+
+// String methods
+
+console.log(fullName.toUpperCase());
+console.log(fullName2.toUpperCase());
+
+let result = fullName2.toLowerCase();
+console.log(result, fullName);
