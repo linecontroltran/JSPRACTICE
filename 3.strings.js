@@ -17,3 +17,6 @@ console.log(fullName);
 
 let fullName2 = firstName + " " + lastName;
 console.log(fullName2);
+
+// Getting Characters
+console.log(fullName[2]);
