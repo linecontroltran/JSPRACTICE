@@ -26,5 +26,5 @@ let likes = 10;
 //console.log(5 / "hello"); // NaN
 //console.log(5 * "hello"); // NaN
 
-let result = "the blog has " + likes + " likes";
-console.log(result);
+//let result = "the blog has " + likes + " likes";
+//console.log(result);
