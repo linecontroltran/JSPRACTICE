@@ -12,6 +12,7 @@ let user = {
   logout: function () {
     console.log("the user logged out");
   },
+  logBlogs: function () {},
 };
 
 user.login();
