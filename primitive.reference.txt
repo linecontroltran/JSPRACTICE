@@ -1,0 +1,7 @@
+primitive vs reference types
+
+primitive types: numbers, strings, booleans, null, undefined, symbols
+
+reference types: all types of objects, object literals, arrays, functions, dates, all other objects
+
+stack and heap
